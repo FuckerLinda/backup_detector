@@ -37,7 +37,16 @@ def parse_url(host,path,urllist):
 		#如果存在子目录就合成url
 		#如果不存在就不管
 		if file!='':
-			new_path=new_path+"/"+file
+			#如果存在参数(2022/06/08新增):
+			if file.find('?')!=-1:
+				new_path=new_path+"/"+file[:file.find('?')]
+				url=host+new_path
+				if url not in urllist and file.find('.') == -1:
+					urllist.append(url)
+				file=file[file.find('?'):]
+				new_path = new_path + file
+			else:
+				new_path=new_path+"/"+file
 			url=host+new_path
 			#如果url不在urllist中，且该子路径不含.（即子路径是个目录），则添加
 			if url not in urllist and file.find('.')==-1:
