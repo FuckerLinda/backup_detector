@@ -1,0 +1,707 @@
+======================================================
+13:04:16  http://10.211.55.26:80
+======================================================
+GET / HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:16  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Public/loginChk.html HTTP/1.1
+Host: 10.211.55.26
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://10.211.55.26/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:20  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Show/index/cid/4/id/15.html HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://10.211.55.26/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:20  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Public/verify.html HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://10.211.55.26/index.php?s=/Show/index/cid/4/id/15.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:20  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Home/Public/online.html HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: */*
+Referer: http://10.211.55.26/index.php?s=/Show/index/cid/4/id/15.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:20  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Public/loginChk.html HTTP/1.1
+Host: 10.211.55.26
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://10.211.55.26/index.php?s=/Show/index/cid/4/id/15.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:21  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Home/Review/getlist.html&model_id=1&post_id=15&num=5&page=1&avatar=middle HTTP/1.1
+Host: 10.211.55.26
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://10.211.55.26/index.php?s=/Show/index/cid/4/id/15.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:22  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/List/index/cid/1.html HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://10.211.55.26/index.php?s=/Show/index/cid/4/id/15.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:22  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Home/Public/online.html HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: */*
+Referer: http://10.211.55.26/index.php?s=/List/index/cid/1.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:22  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Public/loginChk.html HTTP/1.1
+Host: 10.211.55.26
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://10.211.55.26/index.php?s=/List/index/cid/1.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:22  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Special/index.html HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://10.211.55.26/index.php?s=/List/index/cid/1.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:22  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Home/Public/online.html HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: */*
+Referer: http://10.211.55.26/index.php?s=/Special/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:22  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Public/loginChk.html HTTP/1.1
+Host: 10.211.55.26
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://10.211.55.26/index.php?s=/Special/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:23  http://img9.xyhcms.com:80  [47.115.44.52]
+======================================================
+GET /201410/53391df14c069.jpg!200X200.jpg HTTP/1.1
+Host: img9.xyhcms.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://10.211.55.26/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:23  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/List/index/cid/8.html HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://10.211.55.26/index.php?s=/Special/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:23  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Home/Public/online.html HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: */*
+Referer: http://10.211.55.26/index.php?s=/List/index/cid/8.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:23  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Public/loginChk.html HTTP/1.1
+Host: 10.211.55.26
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://10.211.55.26/index.php?s=/List/index/cid/8.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:24  http://127.0.0.1:80
+======================================================
+GET / HTTP/1.1
+Host: 127.0.0.1
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://10.211.55.26/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_e3dc6ebd3b5d677f25f8fd63bb33b0e4=1648802051,1648802113
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:24  http://127.0.0.1:80
+======================================================
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_e3dc6ebd3b5d677f25f8fd63bb33b0e4=1648802051,1648802113
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:26  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Home/Public/online.html HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: */*
+Referer: http://10.211.55.26/index.php?s=/List/index/cid/8.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:04:26  http://10.211.55.26:80
+======================================================
+GET /index.php?s=/Public/loginChk.html HTTP/1.1
+Host: 10.211.55.26
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://10.211.55.26/index.php?s=/List/index/cid/8.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:02  http://10.211.55.26:80
+======================================================
+GET /xyhai.php HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:09  http://10.211.55.26:80
+======================================================
+GET /xyhai.php?s=/Login/index HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:10  http://10.211.55.26:80
+======================================================
+GET /Data/static/jq_plugins/layer/layer.js HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: */*
+Referer: http://10.211.55.26/xyhai.php?s=/Login/index
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:10  http://10.211.55.26:80
+======================================================
+GET /Data/static/js/jquery-1.11.3.min.js HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: */*
+Referer: http://10.211.55.26/xyhai.php?s=/Login/index
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:10  http://10.211.55.26:80
+======================================================
+GET /App/Manage/View/Public/css/login.css?v20160625 HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.211.55.26/xyhai.php?s=/Login/index
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:10  http://10.211.55.26:80
+======================================================
+GET /App/Manage/View/Public/js/login.js?v20160625000 HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: */*
+Referer: http://10.211.55.26/xyhai.php?s=/Login/index
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:10  http://10.211.55.26:80
+======================================================
+GET /Data/static/jq_plugins/layer/skin/layer.css HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.211.55.26/xyhai.php?s=/Login/index
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:10  http://10.211.55.26:80
+======================================================
+GET /xyhai.php?s=/Login/verify/id/a_login_1 HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://10.211.55.26/xyhai.php?s=/Login/index
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:11  http://10.211.55.26:80
+======================================================
+GET /App/Manage/View/Public/images/login_title.png HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://10.211.55.26/App/Manage/View/Public/css/login.css?v20160625
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:11  http://10.211.55.26:80
+======================================================
+GET /App/Manage/View/Public/images/login_bg_big.jpg HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://10.211.55.26/App/Manage/View/Public/css/login.css?v20160625
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:38  http://10.211.55.26:80
+======================================================
+GET /favicon HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:05:42  http://10.211.55.26:80
+======================================================
+GET /public/ HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:06:03  http://10.211.55.26:80
+======================================================
+GET /xyhai.php?s=/Login/verify/id/a_login_1 HTTP/1.1
+Host: 10.211.55.26
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://10.211.55.26/xyhai.php?s=/Login/index
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:09:45  http://10.211.55.26:80
+======================================================
+GET /public2 HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:09:48  http://10.211.55.26:80
+======================================================
+GET /xxx HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:10:05  http://10.211.55.26:80
+======================================================
+GET /xxx2 HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+13:10:20  http://10.211.55.26:80
+======================================================
+GET /public3/231e/qq HTTP/1.1
+Host: 10.211.55.26
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=pe4qd40is2kgj444vbse43tdv4
+Connection: close
+
+
+======================================================
+
+
+
