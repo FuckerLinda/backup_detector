@@ -32,3 +32,9 @@ http://10.211.55.26:80/xyhai.php?s=/Login/verify/id/a_login_1
 http://10.211.55.26:80/App/Manage/View/Public/images
 http://10.211.55.26:80/favicon
 http://10.211.55.26:80/public
+http://10.211.55.26:80/public2
+http://10.211.55.26:80/xxx
+http://10.211.55.26:80/xxx2
+http://10.211.55.26:80/public3
+http://10.211.55.26:80/public3/231e
+http://10.211.55.26:80/public3/231e/qq
