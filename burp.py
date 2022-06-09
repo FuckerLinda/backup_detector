@@ -16,6 +16,8 @@ details="detail.txt"
 #过滤整理后的结果（若当前url与前一个url探测的文件返回长度相同，则将被过滤）保存至result文件
 #已淘汰
 #result="result.txt"
+#（未授权探测）host含以下字符串，则不进行探测
+blacklist=['.cn','.gov']
 
 #为了尽可能过滤垃圾结果：
 # 假设对某路径的访问存在：加上 suffix列表（即.zip、.rar、.tar.......）中的一种元素后能被成功访问，且为二进制。
@@ -24,6 +26,12 @@ details="detail.txt"
 #目前代码逻辑即如上（同时，误判过滤的正确结果也可能变多）
 #如果想保留尽可能多的探测结果（同时，误判产生的垃圾结果也可能变多），可考虑移除所有存在"#tttttttttt"的行（其实影响不大）
 
+#未授权探测函数
+def Unauthorized(host):
+	for i in blacklist:
+		if host.find(i)!=-1:
+			return False
+	return True
 
 
 
@@ -77,6 +85,8 @@ with open(log, 'r') as f:
 		path_end=i.find(' ', path_begin)
 		#截取host、path并拼成url
 		host=i[host_begin:host_end]
+		if Unauthorized(host):
+			continue
 		path= i[path_begin:path_end]
 		url=host+path
 		#将url保存到urllist中
